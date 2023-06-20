@@ -1,0 +1,25 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+a{
+    text-decoration: none;
+}
+
+.navbar{background-color: #5cdb94;}
+
+
+
+
+.footer{background-color: #5cdb94;}
+.footer-div-text{
+    color:#05396b;
+}
+.footer-div-text:hover{
+    color:navy;
+    text-decoration: none;
+}
+.footer-div{text-align: left;}
+@media only screen and (max-width: 576px) {
+    .footer-div{text-align: center;}
+  }
