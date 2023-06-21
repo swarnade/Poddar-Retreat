@@ -1,0 +1,13 @@
+.Main-Heading{font-family:"Lucida Handwriting";color:indigo;font-size: 35px;}
+.div-card{padding: 25px;background-color: black;}
+.card-title{color: aqua;}
+.Galley-Images-Caption{color:blue;font-size: 200%;font-family:"Copperplate";}
+.Gallery-Images{width: 100%;}
+.Gallery{background-color: #5cdb94;text-align: center;}
+.Gallery-Heading{text-align: center;}
+.Gallery-Div{text-align: center;}
+.About{text-align: center;}
+.Main-Heading{}
+.Services{text-align: center;}
+.Contact-Link{margin-left: 40px;color:#05396b}
+a:hover{text-decoration: none;}
